@@ -11,3 +11,5 @@ Robot con servos y movimiento https://groups.google.com/forum/#!msg/fpga-wars-ex
 Pov con la Alhambra https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/WGdscErV6xA/V7wV80KGEAAJ
 
 [Amstrad en una FPGA](http://hackaday.com/2017/01/06/amstrad-on-an-fpga/)
+
+[Ventajas e inconvenientes de las FPGAs](http://drmaker.es/no-lo-podras-creer-5-ventajas-9-desventajas-las-fpga/)
