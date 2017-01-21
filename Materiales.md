@@ -6,6 +6,9 @@ Curso de electrónica digital https://groups.google.com/forum/#!topic/fpga-wars-
 
 ## Mirar
 
+Proyectos con iceStudio
+https://github.com/Lorea-Aldabaldetreku/Icestudio_proiektuak
+
 Robot con servos y movimiento https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/854OXJScZlw/spBhea6kEAAJ
 
 Pov con la Alhambra https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/WGdscErV6xA/V7wV80KGEAAJ
