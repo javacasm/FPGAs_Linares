@@ -1,6 +1,21 @@
 # Referencias
 
+Las FPGAs no son algo nuevo... Pero hasta ahora estaba muy restringido su uso, porque se controlaban las herramientas
+
+Compara con una arquitectura tradicional ¿Von Newman?
+Ejemplo del reproductor de notas (con arduino) 1 voz, ¿2 voces? ¿se complica la programción?
+Ejemplo del contador de pasos
+En un microcontrolador no estamos aprovechando la máquina...
+
+Explicar el proceso de generación, los tiempos, las posibilidades de mejora
+
+Herramientas:
+* para sintetizar ICE...
+* ...
+* Para ver el routeado: ICEfloorplan
 ![ruteado](./images/ConexionadoFPGA.jpg)
+
+
 
 ## Consulta
 
