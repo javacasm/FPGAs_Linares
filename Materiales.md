@@ -1,5 +1,7 @@
 # Referencias
 
+![ruteado](./images/ConexionadoFPGA.jpg)
+
 ## Consulta
 
 Curso de electrónica digital https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/BvSx0-7pgGA
