@@ -36,16 +36,41 @@ Un poco tiempo después llegaron las impresoras 3D y el mundo empezó a llenarse
 
 Necesitábamos software para diseñar esas piezas: Freecad o Blender
 
-Teníamos que usar los chips que existían pero....
+Hasta hace poco se necesitaba un equipo de diseño y otro de fabricación además de tener acceso a máquinas muy costosas para poder crear una PCB. En casa, con la planta o con la impresora láser del trabajo podíamos hacer con mucho cuidado hasta PCBs de 2 capas...
+
+Hoy tenemos CNC que nos permiten hacer las PCBs...
+
+
+Teníamos que usar los chips que existían pero ya no ...
+
+....
+
+El tener todas estas herramientas a nuestro alcance nos permite acelerar enormemente el ciclo de desarrollo: podemos crear un prototipo a partir de nuestras ideas, implementarlo, imprimirlo, montarlo y probarlo en  cuestion de horas y así mejorar constantemente. Son lasº metodologías ágiles de desarrollo.
+
+
+## FPGAs
 
 Las FPGAs no son algo nuevo... Pero hasta ahora estaba muy restringido su uso, porque se controlaban las herramientas
 
 
 
-Compara con una arquitectura tradicional ¿Von Newman?
+## Ejemplos de uso
 Ejemplo del reproductor de notas (con arduino) 1 voz, ¿2 voces? ¿se complica la programción?
 Ejemplo del contador de pasos
+Ejemplo de control de un parking
 En un microcontrolador no estamos aprovechando la máquina...
+
+## Historia del proyecto iceStorm
+
+## Comparación con arquitecturas ¿ASIC?
+
+
+Compara con una arquitectura tradicional ¿Von Newman?
+[Ventajas e inconvenientes de las FPGAs](http://drmaker.es/no-lo-podras-creer-5-ventajas-9-desventajas-las-fpga/)
+
+[FPGA vs Microcontoller](https://www.youtube.com/watch?v=AZInaAaDlvE)
+
+## Proceso de generación
 
 Explicar el proceso de generación, los tiempos, las posibilidades de mejora
 
@@ -66,13 +91,15 @@ Curso de electrónica digital https://groups.google.com/forum/#!topic/fpga-wars-
 Proyectos con iceStudio
 https://github.com/Lorea-Aldabaldetreku/Icestudio_proiektuak
 
+
+## Ejemplos de uso
+
 Robot con servos y movimiento https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/854OXJScZlw/spBhea6kEAAJ
 
 Pov con la Alhambra https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/WGdscErV6xA/V7wV80KGEAAJ
 
 [Amstrad en una FPGA](http://hackaday.com/2017/01/06/amstrad-on-an-fpga/)
 
-[Ventajas e inconvenientes de las FPGAs](http://drmaker.es/no-lo-podras-creer-5-ventajas-9-desventajas-las-fpga/)
 
 ### Vídeos
 
