@@ -62,10 +62,12 @@ En un microcontrolador no estamos aprovechando la máquina...
 
 ## Historia del proyecto iceStorm
 
-## Comparación con arquitecturas ¿ASIC?
+## Comparación con arquitecturas
+
+### Comparación con circuitos especializados (ASIC)
 
 
-Compara con una arquitectura tradicional ¿Von Newman?
+### Compara con una arquitectura tradicional ¿Von Newman?
 [Ventajas e inconvenientes de las FPGAs](http://drmaker.es/no-lo-podras-creer-5-ventajas-9-desventajas-las-fpga/)
 
 [FPGA vs Microcontoller](https://www.youtube.com/watch?v=AZInaAaDlvE)
@@ -99,9 +101,15 @@ Robot con servos y movimiento https://groups.google.com/forum/#!msg/fpga-wars-ex
 Pov con la Alhambra https://groups.google.com/forum/#!msg/fpga-wars-explorando-el-lado-libre/WGdscErV6xA/V7wV80KGEAAJ
 
 [Amstrad en una FPGA](http://hackaday.com/2017/01/06/amstrad-on-an-fpga/)
-
+(
 
 ### Vídeos
 
 [Lista de vídeos sobre FPGA]
 [FPGA vs Microcontoller](https://www.youtube.com/watch?v=AZInaAaDlvE)
+
+### Breve tutorial de electrónica digital
+[Indice del tutorial de obijuan](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki)
+
+[Ejemplos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial)
+[Colecciones](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/V2jLfIr-CJg)
