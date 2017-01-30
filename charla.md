@@ -169,13 +169,15 @@ Se parte de los ficheros **fuente en verilog** (.v). Usando el sintetizador **Yo
 
 ## Me has convencido ¡¡quiero participar!!
 
-
 * [Lista de correo: FPGAWars explorando el lado libre](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre)
 Preséntate y si quieres puedes pedir una Alhambra
 Ahora mismo se está entregando la 1a tirada de 110 placas y hay una lista de espera (con casi 80 apuntados) para una segunda tirada
 
 * [Organización de Github FPGAWars](https://github.com/FPGAwars)
 Puedes ver los proyectos actuales y la documentación sobre las [charlas](https://github.com/FPGAwars/workshops)
+
+
+## ¿Dónde/Cómo se compra?¿Cuánto cuesta? ¿Cuánto vale?
 
 ## Mucho trabajo por hacer
 
