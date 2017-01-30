@@ -55,6 +55,8 @@ Es una placa totalmente [libre (Open Hardware)](https://github.com/FPGAwars/icez
 * 2 general purpose pushbuttons
 * 4 analogue inputs though I2C bus
 
+## Descripción de la placa
+
   [Pinout](https://github.com/FPGAwars/icezum/wiki#pinout)
 
   ![pinout](https://github.com/FPGAwars/icezum/raw/master/doc/pinout/icezum-pinout.png)
