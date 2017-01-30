@@ -113,6 +113,12 @@ Podemos modificar el comportamiento de una FPGA cambiando su bitstream, por tant
 
 * Con una FPGA podemos crear un procesador donde configuremos la cantidad de RAM, la cantidad de I/O, número de UART, incluso modificarlos si es necesarios
 
+
+### Compara con una arquitectura tradicional ¿Von Newman?
+[Ventajas e inconvenientes de las FPGAs](http://drmaker.es/no-lo-podras-creer-5-ventajas-9-desventajas-las-fpga/)
+
+[FPGA vs Microcontoller](https://www.youtube.com/watch?v=AZInaAaDlvE)
+
 * Piensa en un programa Arduino que reproduce un sonido. Ahora intenta hacer un programa que reproduzca 2 sonidos a la vez, o tres... con una FPGA basta con copiar+pegar el hardware
 
 * Facilitan enórmemente la paralelización del hardware.
@@ -157,7 +163,50 @@ En la siguiente figura se muestran las diferentes herramientas usadas en las eta
 
 Se parte de los ficheros **fuente en verilog** (.v). Usando el sintetizador **Yosys**, se generan los ficheros **netlist** (.blif). El emplazado y rutado se realiza con **arachne-pnr**, generándose el **bitstream en formato ascii** (.txt). Con **icepack** se crea el **bitstream binario** (.bin) que finalmente se envía a la FPGA con **iceprog**
 
+## En este contexto apareción la [ICEZum ALhambra](./icezum.md)
+
+
+![iceZum Alhambra](https://github.com/FPGAwars/icezum/raw/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg)
+
+
+## Me has convencido ¡¡quiero participar!!
+
+
+* [Lista de correo: FPGAWars explorando el lado libre](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre)
+Preséntate y si quieres puedes pedir una Alhambra
+Ahora mismo se está entregando la 1a tirada de 110 placas y hay una lista de espera (con casi 80 apuntados) para una segunda tirada
+
+* [Organización de Github FPGAWars](https://github.com/FPGAwars)
+Puedes ver los proyectos actuales y la documentación sobre las [charlas](https://github.com/FPGAwars/workshops)
+
+## Mucho trabajo por hacer
+
+* Mejora del software
+* Optimización en MS Windows
+* Implementación hardware de un periferico I2C
+* Implementación del protocolo I2C para el ADC
+* Implementación de bloques generales
+
+
+## [Herramientas para crear](./Herramientas.md)
+
 
 ## Recursos
 
-[Testeando la IceZum Alhambra (entre maestros)](https://photos.google.com/album/AF1QipP36t5ZhMG71LPr7_C7epm73dmTEdLRZpW79_7S)
+* [Curso de Verilog by @obijuan](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki)
+
+
+
+* [Curso de lógica y electrónica digital by jjviton](https://github.com/jjviton/CursoLogica/wiki)
+
+* [Testeando la IceZum Alhambra (entre maestros)](https://photos.google.com/album/AF1QipP36t5ZhMG71LPr7_C7epm73dmTEdLRZpW79_7S)
+
+* [Presentaciones de Obijuan sobre FPGAs](https://github.com/Obijuan/myslides)
+
+* [OSHWDem 2016: Charla FPGAs Libres - Juan González ( Obijuan ](https://www.youtube.com/watch?v=XWC1B7UKv98)
+
+* [Juan Gonzalez Obijuan FPGAWars Explorando el lado libre de las FPGAs](https://www.youtube.com/watch?v=rdlEpW_Ce5g)
+
+* [Vídeos sobre FPGAs de @Obijuan](https://www.youtube.com/user/obijuancube/videos)
+
+* [Definición Verilog de CI TTL](https://github.com/taw/ttl-cpu/tree/master/verilog)
