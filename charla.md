@@ -29,8 +29,6 @@ Pasando por toda la toolchain
 
 ## Introducción
 
-## Introducción
-
 **Al principio teníamos el control sobre los ordenadores**: los primeros hackers creaban las herramientas (sus 'hachas') y de modo natural las compartían. Escribían su código lo probaban y enviaban a otros usuarios para así compartirlo y mejorarlo entre todos
 
 Esos Hackers creaban/escribían sus sistemas operativos desde cero (Historia del b para hacer el C)
