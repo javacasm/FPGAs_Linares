@@ -1,12 +1,15 @@
-# Demo IceZum Alhambra
+# FPGAs: Las impresoras 3D de la electrónica (172319GE043)
 
-@javacasm para la OSL
+## CEP Linares-Andújar
 
-29 de noviembre de 2016
+### José Antonio Vacas @javacasm
+
+### 30/1/2017
+
+![Licencia CC](./images/Licencia_CC.png)
 
 ![box](./images/IceZumAlhambra_box.jpg)
 
-![Licencia CC](./images/Licencia_CC.png)
 
 
 ## IceZum Alhambra
