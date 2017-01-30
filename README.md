@@ -1,6 +1,14 @@
-# FPGAs: Las impresoras 3D de la electrónica
+# FPGAs: Las impresoras 3D de la electrónica (172319GE043)
 
-## Justificación
+## CEP Linares-Andújar
+
+### José Antonio Vacas @javacasm
+
+### 30/1/2017
+
+![Licencia CC](./images/Licencia_CC.png)
+
+## Introducción
 
 Las FPGAs son unos chips "en blanco" que nos permiten configurarlos para crear dentro de ellos nuestros propios circuitos digitales. ¡Si! ¡Con las FPGAs estamos creando hardware!
 
