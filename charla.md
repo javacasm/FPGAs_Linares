@@ -1,4 +1,4 @@
-# FPGAs: Las impresoras 3D de la electrónica (172319GE043)
+# FPGAs: Las impresoras 3D de la electrónica ([172319GE043](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/172319GE043/))
 
 ## CEP Linares-Andújar
 
@@ -12,3 +12,6 @@
 ## ¿Qué sabéis de las FPGAs? ¿Las habéis usado? ¿Tenéis un a mano?
 
 ##
+
+
+## Recursos
