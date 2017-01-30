@@ -65,6 +65,10 @@ Y lo enviamos a la placa con
     apio upload
 
 
+Para ver el routeado: ICEfloorplan
+![ruteado](./images/ConexionadoFPGA.jpg)
+
+
 #### [Apio IDE](https://github.com/FPGAwars/apio-ide/wiki)
 
 ![apio ide](https://i.github-camo.com/f9636865a958658c05babb384e4bcff7e6a4a95d/68747470733a2f2f6769746875622e636f6d2f46504741776172732f6170696f2d6964652f7261772f6d61737465722f646f632f6170696f2d6964652d73637265656e73686f742d312e706e67)
