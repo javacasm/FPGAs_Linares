@@ -97,6 +97,16 @@ Descargarmos la [última release](https://github.com/FPGAwars/icestudio/releases
 
 * [Ejemplos de IceZum Studio](https://github.com/FPGAwars/icestudio-examples)
 
+* [Control de servo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/tree/master/blocks/ServoBit-180)
+
+* [Siguelíneas](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/nL4UO4Km2SM)
+
+* [PWM](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/ClU5gaviQWw)
+
+* [Control de encoder](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/nu64aty75MI) [video](https://www.youtube.com/watch?v=o5FU0IMdsDs)
+
+* [Dí hola](https://groups.google.com/forum/#!topic/fpga-wars-explorando-el-lado-libre/WGdscErV6xA)
+
 * Cómo migrar un ejemplo entre placas
 
 * Creando bloques
