@@ -13,12 +13,12 @@ module leds(output wire LED0,
             output wire LED7);
 
 assign LED0 = 1'b1;
-assign LED1 = 1'b1;
+assign LED1 = 1'b0;
 assign LED2 = 1'b1;
-assign LED3 = 1'b1;
+assign LED3 = 1'b0;
 assign LED4 = 1'b1;
-assign LED5 = 1'b1;
+assign LED5 = 1'b0;
 assign LED6 = 1'b1;
-assign LED7 = 1'b1;
+assign LED7 = 1'b0;
 
 endmodule
