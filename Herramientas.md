@@ -85,7 +85,7 @@ Después instalamos el paquete Apio-ide que configuramos para que encuentre a Ap
 
 ![icono](https://raw.githubusercontent.com/FPGAwars/icestudio/develop/doc/images/icestudio-logo.ico)
 
-![icestudio](https://github.com/FPGAwars/icestudio/blob/develop/doc/images/icestudio-0.2-project.png?raw=true)
+![icestudio](http://fpgawars.github.io/img/projects/icestudio.png)
 
 Descargarmos la [última release](https://github.com/FPGAwars/icestudio/releases)
 
